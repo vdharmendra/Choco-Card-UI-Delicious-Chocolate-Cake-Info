@@ -31,29 +31,29 @@ Choco Card UI is a visually rich, responsive web project built for dessert lover
 
 <br>
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/224387457/Choco-Card-UI-Delicious-Chocolate-Cake-Info" target="_blank" >
+<img src="./img/cardInfo.gif" width="575px"/>
 </a>
 
 <br>
 <span>👉 Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/224387457/Choco-Card-UI-Delicious-Chocolate-Cake-Info" target="_blank" >
+<img src="./img/cardInfoUIUXLayout.gif" width="575px"/>
 </a>
 <br />
 <span>📸 Desktop Design UI UX Layout</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="325px"/>
-<img src="." width="325px"/>
+<a href="https://www.behance.net/gallery/224387457/Choco-Card-UI-Delicious-Chocolate-Cake-Info" target="_blank" >
+<img src="./img/cardInfo.png" width="325px"/>
+<img src="./img/cardInfoHover.png" width="325px"/>
 </a>
 <br />
 <span>📸 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="325px"/>
-<img src="." width="325px"/>
+<a href="https://www.behance.net/gallery/224387457/Choco-Card-UI-Delicious-Chocolate-Cake-Info" target="_blank" >
+<img src="./img/cardInfoUIUXLayout.png" width="325px"/>
+<img src="./img/cardInfoHoverUIUXLayout.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
-<img src="." width="575px"/>
+<a href="https://www.behance.net/gallery/224387457/Choco-Card-UI-Delicious-Chocolate-Cake-Info" target="_blank" >
+<img src="./img/cover.png" width="575px"/>
 </a>

@@ -33,6 +33,7 @@ body {
     margin: 2.2rem auto;
 }
 /* CARDS STYLE CSS */
+
 /* CARD ONE */
 .cardOne {
   text-align:center;
@@ -133,17 +134,4 @@ p{
   width:200px;
   height:120px;
   object-fit: contain;
-}
-/* FOOTER */
-.footer{
-  position: absolute;
-  top: 500px;
-  margin: 10px;
-  width: 80%;
-  margin: 0 auto;
-   text-align: center;
-}
-.footer h2{
-  font-size:18px;
-  font-family: 'Exo', sans-serif;
 }
